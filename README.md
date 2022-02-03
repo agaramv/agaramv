@@ -3,8 +3,8 @@
 ## I'm Vidur Agaram 
 ## Full Stack Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-agaramv-blue)](https://www.linkedin.com/in/vidur-agaram-905aab212/)
+[![](https://img.shields.io/badge/Gmail-vagaram09%40gmail.com-red)](mailto:vagaram09@gmail.com)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
