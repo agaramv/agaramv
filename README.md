@@ -15,7 +15,7 @@ const vidur = {
     askMeAbout: ["web dev", "tech", "data science"],
     technologies:{
         backEnd: ["Spring Framework"],
-        fronEnd: ["Angular", "NodeJS","NextJS"],
+        fronEnd: ["Angular","NextJS"],
         database: ["MySQL"],
         devOps: ["AWS", "Nginx"],
     },
