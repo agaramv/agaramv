@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## I'm Vidur Agaram 
-## UVA Student and Full Stack Developer 👨‍💻
+## University of Virginia Student and Full Stack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-agaramv-blue)](https://www.linkedin.com/in/vidur-agaram-905aab212/)
 [![](https://img.shields.io/badge/Gmail-vagaram09%40gmail.com-red)](mailto:vagaram09@gmail.com)
