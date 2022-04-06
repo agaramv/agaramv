@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/LinkedIn-agaramv-blue)](https://www.linkedin.com/in/vidur-agaram-905aab212/)
 [![](https://img.shields.io/badge/Gmail-vagaram09%40gmail.com-red)](mailto:vagaram09@gmail.com)
 
-### To view my repositories, please contact me at vagaram09@gmail.com, and I will respond within 16 hours. 
+### I am currently looking for summer internships. If any of my work interests you, please contact me at mailto:vagaram09@gmail.com. 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
